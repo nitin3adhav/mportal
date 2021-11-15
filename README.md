@@ -1,3 +1,3 @@
 # mportal
 
-Change the DB configuration only Running the applivation
+Change the DB configuration only for Running the application
